@@ -1,5 +1,5 @@
 //Faviola Bautista
-//This program takes in an array and a certain column number and adds the sum of that certain column number
+//This program takes in an array and a certain column number and adds the sum of that column number
 public class SumCol 
 {
 
